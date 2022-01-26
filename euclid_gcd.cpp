@@ -11,7 +11,7 @@ using namespace std;
 #define mii             map<ll,ll>
 #define mod             1000000007
 #define inf             1e18
-
+//Time Complexity log(min(a,b))
 ll euclid_gcd(ll a,ll b)
 {
 	if(b==0)
