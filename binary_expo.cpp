@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+ //log(b)
 #define ff              first
 #define ss              second
 #define ll              long long
